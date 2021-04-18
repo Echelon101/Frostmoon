@@ -1,0 +1,6 @@
+body{
+	background: url("../bilder/backgrounds/wallpaper3w.jpg") no-repeat center fixed;
+}
+body:background {
+	opacity:0,9;
+}

@@ -1,0 +1,9 @@
+<div id="menue" class="w3-bar w3-black w3-display-container">
+    <a href="../index.php" class="w3-bar-item w3-button w3-hover-lime w3-mobile">Startseite</a>
+    <a href="team.php" class="w3-bar-item w3-button w3-hover-lime w3-mobile">Team</a>
+    <a href="events.php" class="w3-bar-item w3-button w3-hover-lime w3-mobile">Events</a>
+    <a href="../login/login.php" onClick="<?php $_SESSION['lastpage'] = '../sites/events.php' ?>" class="w3-bar-item w3-button w3-hover-lime w3-mobile w3-display-topright">Login</a>
+    <a href="tickets.php" class="w3-bar-item w3-button w3-hover-lime w3-mobile">Tickets</a>
+    <a href="kontakt.php" class="w3-bar-item w3-button w3-hover-lime w3-mobile">Kontakt</a>
+    <a href="impressum.php" class="w3-bar-item w3-button w3-hover-lime w3-mobile">Impressum</a>
+</div>

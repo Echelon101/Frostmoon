@@ -1,0 +1,23 @@
+@media only screen and (max-width: 480px) {
+	
+	.w3-col {
+		width:100% !important;
+	}
+	
+	.mobile {
+		width: 100%;
+		margin-top: 3px;
+		
+
+	}
+	
+	.divmobile
+	{
+		padding-right: 0px !important;
+	}
+	
+	.strmobile
+	{
+		padding-left:0px !important;
+	}
+}	

@@ -1,0 +1,49 @@
+#hinweis{ background-color: red; visibility: visible;
+    
+}
+#hinweis:hover{
+    background-color: yellow; visibility: visible;
+    
+}
+.alert {
+    padding: 20px;
+    background-color: #f44336; /* Red */
+    color: white;
+    margin-bottom: 15px;
+    transition-property: visibility 0s 2s, opacity 2s linear;
+ }
+.left {
+       text-align: left;
+}
+.right {
+        text-align: right;
+}
+.content {
+    width: 80%;
+    margin: auto;
+}
+.kontakt {
+    height: 80px;
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.borderthinblack{
+    border: solid;
+    border-color: black;
+    padding: 5px;
+}
+.bottom {
+    margin-bottom:17px;
+}
+#menue {
+    text-align: center;
+    font-family: Arial;
+    font-size: 120%;
+    letter-spacing: 1px;
+}
+#footer {
+    text-align: justify;
+    text-align: center;
+    
+}
